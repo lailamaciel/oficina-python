@@ -1,50 +1,50 @@
-# 🤖 Mini Projetos de Automação com Python
+# 🤖 Python Automation Mini Projects
 
-Este repositório contém dois mini projetos de automação desenvolvidos com Python durante um **bootcamp realizado na faculdade**. O objetivo foi explorar o uso de bibliotecas e scripts para facilitar tarefas repetitivas do dia a dia.
+This repository contains two mini automation projects developed with Python during a **college bootcamp**. The goal was to explore the use of libraries and scripts to simplify repetitive tasks.
 
-> Projetos criados com fins educacionais, focados em produtividade e automação de processos.
+> Educational projects focused on productivity and task automation.
 
-## 📂 Projetos incluídos
+## 📂 Included Projects
 
-### 1. 📝 Preenchimento Automático de Formulário
+### 1. 📝 Automatic Form Filling
 
-Automatiza o preenchimento de um formulário web a partir de uma base de dados.
+Automates filling out a web form based on a dataset.
 
-**Funcionalidades:**
-- Acesso automático a um formulário online
-- Preenchimento de campos com dados fictícios
-- Submissão automatizada
+**Features:**
+- Automatic access to an online form  
+- Filling out fields with sample data  
+- Automated submission
 
-**Bibliotecas utilizadas:**
-- `pyautogui`
-- `time`
-- `pandas` 
-
----
-
-### 2. 🎓 Geração Automática de Certificados
-
-Gera certificados personalizados com base em uma lista de nomes.
-
-**Funcionalidades:**
-- Leitura de lista de participantes
-- Geração de imagens com nome e data posicionados corretamente
-- Salvamento automático dos arquivos
-
-**Bibliotecas utilizadas:**
-- `pyautogui`
-- `time`
+**Libraries Used:**
+- `pyautogui`  
+- `time`  
+- `pandas`  
 
 ---
 
-## 🎯 Objetivos de Aprendizado
+### 2. 🎓 Automatic Certificate Generation
 
-- Introdução à automação com Python
-- Manipulação de arquivos e imagens
-- Controle de fluxo com listas e laços
-- Uso de bibliotecas externas para automação de tarefas
+Generates personalized certificates based on a list of names.
 
-## 👩‍💻 Autor
+**Features:**
+- Reads a participant list  
+- Creates images with names and dates correctly placed  
+- Automatically saves the generated files
+
+**Libraries Used:**
+- `pyautogui`  
+- `time`  
+
+---
+
+## 🎯 Learning Goals
+
+- Introduction to Python automation  
+- File and image handling  
+- Flow control with lists and loops  
+- Using external libraries to automate tasks
+
+## 👩‍💻 Author
 
 Laila Maciel  
 [GitHub: @lailamaciel](https://github.com/lailamaciel)
